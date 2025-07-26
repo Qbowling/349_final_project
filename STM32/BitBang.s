@@ -13,9 +13,9 @@ safe_start
         MOV R1, #1
         STR R1, [R0]
 
-        ; --- Configure PA0â€“PA2 as output, PA4 as input -------------
+        ; --- Configure PA0–PA2 as output, PA4 as input -------------
         LDR R0, =0x40020000       ; GPIOA_MODER
-        LDR R1, =0x00000115       ; PA0â€“PA2 output, PA4 = 00 (input)
+        LDR R1, =0x00000115       ; PA0–PA2 output, PA4 = 00 (input)
         STR R1, [R0]
 
         ; --- Enable pull-down resistor on PA4 ----------------------

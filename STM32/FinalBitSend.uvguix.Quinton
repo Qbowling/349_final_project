@@ -101,10 +101,10 @@
         <yPos>-1</yPos>
       </MaxPosition>
       <NormalPosition>
-        <Top>45</Top>
-        <Left>12</Left>
-        <Right>1546</Right>
-        <Bottom>955</Bottom>
+        <Top>519</Top>
+        <Left>625</Left>
+        <Right>2159</Right>
+        <Bottom>1429</Bottom>
       </NormalPosition>
     </WindowPosition>
     <MDIClientArea>
@@ -1865,9 +1865,9 @@
       <ActiveTab>0</ActiveTab>
       <Doc>
         <Name>.\BitBang.s</Name>
-        <ColumnNumber>22</ColumnNumber>
-        <TopLine>21</TopLine>
-        <CurrentLine>37</CurrentLine>
+        <ColumnNumber>11</ColumnNumber>
+        <TopLine>74</TopLine>
+        <CurrentLine>130</CurrentLine>
         <Folding>1</Folding>
         <ContractedFolders></ContractedFolders>
         <PaneID>0</PaneID>
